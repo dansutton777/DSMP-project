@@ -5,9 +5,9 @@ Developed with University of Bristol in collaboration with Lloyds for a universi
 <details>
   <summary>Technologies used</summary>
   <ol>
-    <li>Technology 1</li>
-    <li>Technology 2</li>
-    <li>Technology 3</li>
+    <li>Python</li>
+    <li>Matlabplot</li>
+    <li>Scikit Library</li>
   </ol>
 </details>
 
